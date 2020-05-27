@@ -1,8 +1,9 @@
-# AutoPhugo
+# AutoPhugoNouveau
 
-AutoPhugo [ˌɔtoʊˈfjuːgəʊ] is a gallery/photoblog theme for Hugo that's a little more automatic than [Phugo](https://github.com/kc0bfv/phugo/).  It is a port of HTML5 UP [Multiverse template](https://html5up.net/multiverse).  Phugo was originally created by Aerohub, Pavel Kanyshev. The Hugo port was created by Karl Sickendick (kc0bfv).
+AutoPhugoNouveau is a gallery/photoblog theme for Hugo that's a little more automatic than [Phugo](https://github.com/kc0bfv/phugo/), and a little more forgiving to view on Desktop than [AutoPhugo](https://github.com/kc0bfv/autophugo/).  It is a port of HTML5 UP [Multiverse template](https://html5up.net/multiverse).  Phugo was originally created by Aerohub, Pavel Kanyshev.
 
-Production preview at <https://kaiju.ink>
+Ported to Hugo by Kc0bfv, Karl Sickendick.
+Altered style by Kaiju Agenda.
 
 ## Features
 
@@ -72,9 +73,11 @@ If you try multiple sizes or quality settings for your images, you'll start to a
 
 Regardless of the number of resources you have, Hugo will only deploy the ones actually used in a build.  Unused image resources will not be deployed.
 
-## Comparison to Phugo
+## Comparison to Phugo & AutoPhugo
 
 Unfortunately the [original Phugo](https://github.com/aerohub/phugo) hasn't been updated in a while, and was dropped from common theme lists.  AutoPhugo implements the pull requests over on Phugo, causing it to work error-free on modern Hugo.  Further, it sets standardized column layout (currently set at two, only), automatically builds albums based on files alone (Phugo required entering each filename as a shortcode), and automatically resizes photos for display and thumbnail.
+
+AutoPhugoNouveau continues with additional additions in regards to CSS Styling and dependency updates (mainly FontAwesome) and deviates from the original styles for Phugo & Autophugo
 
 ## License
 
