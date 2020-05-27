@@ -77,7 +77,7 @@ Regardless of the number of resources you have, Hugo will only deploy the ones a
 
 Unfortunately the [original Phugo](https://github.com/aerohub/phugo) hasn't been updated in a while, and was dropped from common theme lists.  AutoPhugo implements the pull requests over on Phugo, causing it to work error-free on modern Hugo.  Further, it sets standardized column layout (currently set at two, only), automatically builds albums based on files alone (Phugo required entering each filename as a shortcode), and automatically resizes photos for display and thumbnail.
 
-AutoPhugoNouveau continues with additional additions in regards to CSS Styling and dependency updates (mainly FontAwesome) and deviates from the original styles for Phugo & Autophugo
+AutoPhugoNouveau continues with additional additions in regards to CSS Styling and dependency updates (mainly FontAwesome) and deviates from the original styles for Phugo & AutoPhugo by including color accents & fixes for desktop viewing.
 
 ## License
 
