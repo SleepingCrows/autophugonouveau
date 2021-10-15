@@ -1,8 +1,8 @@
 name = "AutoPhugoNouveau"
 license = "CCA 3.0 Unported"
-licenselink = "https://github.com/kaijuagenda/autophugo/blob/master/LICENSE.md"
+licenselink = "https://github.com/sleepingcrows/autophugo/blob/master/LICENSE.md"
 description = "Image gallery/Photoblog Theme for Hugo."
-homepage = "https://github.com/kaijuagenda/autophugo/"
+homepage = "https://github.com/sleepingcrows/autophugo/"
 tags = ["gallery", "photoblog", "responsive", "mobile", "dark", "creative", "images"]
 features = ["albums", "contact form", "breadcrumbs"]
 min_version = "0.58.0"
@@ -10,7 +10,7 @@ min_version = "0.58.0"
 authors = [
     {name = "Karl Sickendick", homepage = "https://notmet.net"},
     {name = "Pavel Kanyshev", homepage = "https://github.com/aerohub"},
-    {name = "Kaiju Agenda", homepage = "https://github.com/kaijuagenda"},
+    {name = "SleepingCrows", homepage = "https://github.com/sleepingcrows"},
 ]
 
 # If porting an existing theme
